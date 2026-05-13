@@ -1,0 +1,32 @@
+.DS_Store
+
+# Xcode user-local state
+xcuserdata/
+*.xcuserdatad/
+*.xcuserstate
+
+# Xcode build/cache artifacts
+DerivedData/
+.build/
+build/
+builds/
+*.ipa
+*.xcarchive
+*.dSYM
+
+# Other local Xcode metadata
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# CocoaPods dependencies are restored with `pod install`
+AirFloat/Pods/
+
+# Local signing material must be owned by the publisher
+*.mobileprovision
+*.p12
+*.cer
+*.developerprofile
+
+# Local diagnostics/logs
+*.log

@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "train_squats.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
